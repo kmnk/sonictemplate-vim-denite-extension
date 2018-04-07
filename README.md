@@ -7,7 +7,7 @@
 - [sonictemplate-vim][sonictemplate]
 
 ## Install by dein
-Add `kmnk/sonictemplate-vim-denite-extension` repository.
+Add `kmnk/sonictemplate-vim-denite-extension` repository to your `dein.toml` file.
 
 ```
 [[plugins]]
