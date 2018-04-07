@@ -2,7 +2,6 @@
 [denite.nvim][denite] source and kind of [sonictemplate-vim][sonictemplate]
 
 ## Requirements
-- [Neovim][neovim]
 - [denite.nvim][denite]
 - [sonictemplate-vim][sonictemplate]
 
@@ -23,6 +22,5 @@ And select template name you want to apply.
 :Denite sonictemplate
 ```
 
-[neovim]:https://neovim.io/
 [denite]:https://github.com/Shougo/denite.nvim
 [sonictemplate]:https://github.com/mattn/sonictemplate-vim
